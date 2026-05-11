@@ -13,7 +13,8 @@ This repository serves as the semantic anchor for the first release. It document
 
 ## Official Resources
 - Website: https://innastoryofficial.com
-- Identity: Cinematic / Old Money Aesthetic
+- Identity: Cinematic / Old Money Aesthetic - DOI: [10.5281/zenodo.20120570](https://doi.org/10.5281/zenodo.20120570)
+
 
 ## Lyrics (Official)
 
