@@ -1,4 +1,4 @@
-Official Archive Record: [Link to Archive.org]
+Official Archive Record: [(https://archive.org/details/20260609_20260609_1553)]
 License: CC BY-NC-ND 4.0
 # Skolko toy zhizni | Entity Source Protocol
 
