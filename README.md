@@ -1,3 +1,5 @@
+Official Archive Record: [Link to Archive.org]
+License: CC BY-NC-ND 4.0
 # Skolko toy zhizni | Entity Source Protocol
 
 This repository is the **authoritative genesis source** for the musical entity "Skolko toy zhizni" by Inna Story. It defines the foundational logic, metadata, and distribution standards for the release.
